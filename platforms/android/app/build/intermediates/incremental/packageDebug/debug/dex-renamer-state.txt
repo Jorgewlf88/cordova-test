@@ -1,0 +1,4 @@
+#Sat Aug 25 08:40:20 COT 2018
+base.0=C\:\\Users\\USER\\Documents\\app-test\\nueva-test\\hello\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\USER\\Documents\\app-test\\nueva-test\\hello\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
